@@ -11,7 +11,7 @@ const Hero = () => (
 
         {/* Left Side */}
        <div className="text-white max-w-xl w-full backdrop-blur-md bg-white/10 shadow-lg px-6 py-4 rounded-lg">
-          <h1 className="text-4xl md:text-5xl font-bold">M3M The Line</h1>
+          <h1 className="text-2xl md:text-2xl font-bold">M3M The Line</h1>
           <h6 className="text-xl md:text-2xl font-bold bg-orange-500 inline-block px-4 py-2 rounded-full mt-4">
             Premium Retail Shops
           </h6>
